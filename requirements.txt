@@ -1,6 +1,6 @@
 streamlit
 pandas
-yfinance
+yfinance==0.2.30
 plotly
 prophet
 streamlit-option-menu
